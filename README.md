@@ -1,0 +1,2 @@
+# ffxi-maps
+FFXI addon
